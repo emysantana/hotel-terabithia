@@ -1,2 +1,2 @@
-# hotel-terabitia
-Hotel Terabitia em Kotlin.
+# hotel-terabithia
+Hotel Terabithia em Kotlin.
